@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var array = [ {"vehicle":"Vespa", "engine": "B6"}];
+         for (var i = 0; i < array.length; i++){
+            document.write("<br><br>index value: " + i);
+            var obj = array[i];
+            for (var key in obj){
+               var value = obj[key];
+               document.write("<br> - " + key + ": " + value);
+            }
+         }
+    </script>
+    
+</body>
+</html>

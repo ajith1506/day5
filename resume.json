@@ -1,0 +1,60 @@
+        
+{
+  "basics": {
+    "name": "ajith",
+    "email": "ajithkumararun1111@gmail.com",
+    "phone": "8838040971",
+    "degree": "msc computerscience", 
+    "career objective":"i am a fresher inthe IT feild but i ready to accept all the challenges utilizing my technical skills ",
+    "location": {
+      "address": "1/82,tiruchirappali",
+      "postalCode": "621218",
+      "city": "trichy",
+      "state": "tamilnadu",
+      "country": "india"
+     
+    } 
+  },
+  "education": [
+    {
+      "institution": "goverment heigher secondary school",
+      "area": "tiruchirappali",
+      "studyType": "sslc",
+      "startDate": "15.6.2015",
+      "endDate": "8.5.2016",
+      "gpa": "80.9",
+      "courses": [
+        "guvi java",
+        ".net",
+        "guvi javascipt"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "java",
+        "javascipt",
+        "c"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "english",
+      "fluency": "expencive"
+    }
+  ],
+  "interests": [
+    {
+      "name": "sports",
+      "keywords": [
+          "Cricket",
+           "Football", 
+           "Golf"
+      ]
+    }
+  ]
+}
+
+    
